@@ -20,13 +20,13 @@ a:visited {
 }
 
 a:hover {
-  background-color: pink;
+  background-color: grey;
   color: black;
   border-color: palevioletred;
 }
 
 a:active {
-  background-color: grey;
+  background-color: salmon;
   color: black;
 }
 
